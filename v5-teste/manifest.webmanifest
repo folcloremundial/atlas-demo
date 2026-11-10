@@ -1,0 +1,39 @@
+{
+  "id": "./",
+  "name": "Atlas do Folclore",
+  "short_name": "Atlas",
+  "description": "Um planeta de narrativas culturais: tradições, lendas e crenças com fontes indicadas.",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#efe2bd",
+  "theme_color": "#24170d",
+  "categories": ["education", "books"],
+  "icons": [
+  {
+    "src": "icones/oficial-candidato/atlas-192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "purpose": "any"
+  },
+  {
+    "src": "icones/oficial-candidato/atlas-512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any"
+  },
+  {
+    "src": "icones/oficial-candidato/atlas-512-adaptavel.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "maskable"
+  }
+],
+  "screenshots": [
+    { "src": "capturas/globo.webp", "sizes": "1080x2340", "type": "image/webp", "form_factor": "narrow", "label": "O globo do Atlas, com o Brasil em destaque" },
+    { "src": "capturas/pagina.webp", "sizes": "1080x2340", "type": "image/webp", "form_factor": "narrow", "label": "Página em pergaminho com fontes indicadas" }
+  ]
+}
